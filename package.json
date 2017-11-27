@@ -1,0 +1,11 @@
+{
+  "name": "functional-light-js",
+  "version": "1.0.0",
+  "description": "javascript practice",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kara Bayse",
+  "license": "ISC"
+}
